@@ -13,8 +13,5 @@
 - plate | UNIQUE, VARCHAR (13)
 - frame_number | UNIQUE, AUTO_INCREMENT, INT
 - price | DECIMAL (7, 3) // 9.999.999,999
-- optional (not here)
-- color (not here)
-- installations (not here)
 - is_avaiable | TINYINT
 - note | TEXT
